@@ -55,23 +55,23 @@ The platform provides separate experiences for **students and teachers**. Studen
 
 ### Login Screen
 
-![Login Screen](screenshots/EduPlay%20Hub%20Giri%C5%9F.png)
+![Login Screen](screenshots/login.png)
 
-### Main Page
+### Home Page
 
-![Main Page](screenshots/EduPlay%20Hub%20Ana%20Sayfa.png)
+![Home Page](screenshots/home-page.png)
 
 ### Unit Selection
 
-![Unit Selection](screenshots/EduPlay%20Hub%20Ünite%20Seçim.png)
+![Unit Selection](screenshots/unit-selection.png)
 
 ### Assessment Map
 
-![Assessment Map](screenshots/EduPlay%20Hub%20Harita.png)
+![Assessment Map](screenshots/map-page.png)
 
 ### Game Interface
 
-![Game Interface](screenshots/EduPlay%20Hub%20Oyun.png)
+![Game Interface](screenshots/game-page.png)
 
 ### 👩‍💻 My Contributions
 
