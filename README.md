@@ -51,37 +51,39 @@ The platform provides separate experiences for **students and teachers**. Studen
 │       Supabase      │
 └─────────────────────┘
 ```
-
 ## 📸 Screenshots
 
-### Student Dashboard
+### Login Screen
 
-![Student Dashboard](screenshots/student-dashboard.png)
+![Login Screen](screenshots/EduPlay%20Hub%20Giri%C5%9F.png)
+
+### Main Page
+
+![Main Page](screenshots/EduPlay%20Hub%20Ana%20Sayfa.png)
+
+### Unit Selection
+
+![Unit Selection](screenshots/EduPlay%20Hub%20Ünite%20Seçim.png)
 
 ### Assessment Map
 
-![Assessment Map](screenshots/assessment-map.png)
+![Assessment Map](screenshots/EduPlay%20Hub%20Harita.png)
 
 ### Game Interface
 
-![Game Interface](screenshots/game-interface.png)
+![Game Interface](screenshots/EduPlay%20Hub%20Oyun.png)
 
-### Teacher Dashboard
+### 👩‍💻 My Contributions
 
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
+As the Lead Full-Stack Developer, I was responsible for:
 
-## 👩‍💻 My Contributions
-
-As the **Lead Full-Stack Developer**, I was responsible for:
-
-* Designed and developed the backend using **Python and Flask**
-* Designed the relational database schema using **PostgreSQL**
-* Developed **REST API** endpoints for frontend-backend communication
-* Implemented authentication and role-based authorization
-* Integrated educational games into the platform
-* Developed student progress tracking functionality
-* Connected frontend components with backend services
-* Contributed to production deployment
+- Designed and developed the backend using Python and Flask
+- Designed the relational database schema using PostgreSQL/Supabase
+- Developed Flask routes for role-based rendering and data persistence
+- Implemented authentication and role-based authorization
+- Integrated educational games into the platform
+- Developed student progress tracking functionality
+- Contributed to production deployment
 
 ## 📊 Project Highlights
 
